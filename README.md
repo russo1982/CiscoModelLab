@@ -30,7 +30,7 @@ systemctl status ssh
 
 SSH to CML VM via your host machine and copy **libsmartunified.so** into **/tmp**
 
-[MobaExtreme]([https://link-url-here.org](https://mobaxterm.mobatek.net/download.html). is a handy tool to help.
+[MobaExtreme](https://mobaxterm.mobatek.net/download.html) is a handy tool to help.
 
 
 
