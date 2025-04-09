@@ -44,6 +44,12 @@ mv /tmp/libsmartunified.so /var/local/virl2/.local/lib/smart/
 Now login with Web UI into CML and go to **Tools > System Administration > Licensing** and search **UDI**.
 Now copy the **SN: XXXXXXXXXXX and UUID: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX**
 
+![License UDI](Tools-Sysadmin-License.PNG "License UDI")
+
+![License UDI](Tools-Sysadmin-License-UDI.PNG "License UDI")
+
+
+
 
 
 
