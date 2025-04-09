@@ -32,6 +32,18 @@ SSH to CML VM via your host machine and copy **libsmartunified.so** into **/tmp*
 
 [MobaExtreme](https://mobaxterm.mobatek.net/download.html) is a handy tool to help.
 
+Copy or Move **libsmartunified.so** file  to  **/var/local/virl2/.local/lib/smart/**  using console.
+To get root access type:
+```
+sudo -E -s
+mv /tmp/libsmartunified.so /var/local/virl2/.local/lib/smart/
+```
+>
+>Now Reboot the CML VM.
+
+Now login with Web UI into CML and go to **Tools > System Administration > Licensing** and search **UDI**.
+Now copy the **SN: XXXXXXXXXXX and UUID: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX**
+
 
 
 
