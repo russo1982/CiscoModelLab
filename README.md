@@ -19,7 +19,9 @@ systemctl enable ssh
 ```
 nano /etc/ssh/sshd_config
 ```
-![alt text for screen readers](sshd_config_Port.PNG "SSH server Port change")
+![SSH Server port change](sshd_config_Port.PNG "SSH server Port change")
+
+
 
 
 
