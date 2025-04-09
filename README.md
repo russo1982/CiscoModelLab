@@ -39,11 +39,12 @@ sudo -E -s
 mv /tmp/libsmartunified.so /var/local/virl2/.local/lib/smart/
 ```
 >
->Now Reboot the CML VM.
+>Reboot the CML VM.
 
 Now login with Web UI into CML and go to **Tools > System Administration > Licensing** and search **UDI**.
 
-Now copy the **SN: XXXXXXXXXXX and UUID: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX**
+>
+>Copy the **SN: XXXXXXXXXXX and UUID: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX**
 
 ![License UDI](Tools-Sysadmin-License.PNG "License UDI")
 
@@ -53,6 +54,19 @@ Now copy the **SN: XXXXXXXXXXX and UUID: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX**
 Download and open **license.txt** file with notepad and paste the
 
 SN: and UUID to under **S: XXXXXXXXXXX,U:XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX** and save the **license.txt** file.
+
+![Change License UDI](change-license.PNG "Change License UDI")
+
+>
+>Go to **Tools> Licensing Product Configuration** and edit and select **Enterprise License - CML-ENT-BASE**
+
+Now under **Tools> Licensing** click **Register** and click here under [[ If your Smart Account is authorized for License Reservations ]] and you wish to reserve licenses
+
+   - and click [[ YES, MY SMART ACCOUNT IS LICENSE RESERVATION ENABLED ]]
+
+   - and click [[ GENERATE RESERVATION REQUEST CODE ]]
+
+   - and Click to [[ SAVE TO FILE ]] and [[ Cancel ]] the window.
 
 
 
