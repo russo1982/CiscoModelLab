@@ -68,7 +68,10 @@ Now under **Tools> Licensing** click **Register** and click here under ` If your
 
    - and Click to ` SAVE TO FILE ` and ` Cancel ` the window.
 
+>
+>Now click the ` ENTER RESERVATION CODE ` and click the attach file icon and select the **license.txt** file
 
-
+>
+>Now click ` INSTALL AUTHORIZATION CODE` . That's it.
 
 
