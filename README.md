@@ -60,13 +60,13 @@ SN: and UUID to under **S: XXXXXXXXXXX,U:XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX** 
 >
 >Go to **Tools> Licensing Product Configuration** and edit and select **Enterprise License - CML-ENT-BASE**
 
-Now under **Tools> Licensing** click **Register** and click here under [[ If your Smart Account is authorized for License Reservations ]] and you wish to reserve licenses
+Now under **Tools> Licensing** click **Register** and click here under ` If your Smart Account is authorized for License Reservations ` and you wish to reserve licenses
 
-   - and click [[ YES, MY SMART ACCOUNT IS LICENSE RESERVATION ENABLED ]]
+   - and click ` YES, MY SMART ACCOUNT IS LICENSE RESERVATION ENABLED `
 
-   - and click [[ GENERATE RESERVATION REQUEST CODE ]]
+   - and click ` GENERATE RESERVATION REQUEST CODE `
 
-   - and Click to [[ SAVE TO FILE ]] and [[ Cancel ]] the window.
+   - and Click to ` SAVE TO FILE ` and ` Cancel ` the window.
 
 
 
