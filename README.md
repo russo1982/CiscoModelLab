@@ -1,2 +1,6 @@
 # study
-Repository created to study and train Python
+***
+***
+### Repository created to take a note of settings used in system and Nework Administration practices
+***
+
