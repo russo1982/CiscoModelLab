@@ -1,7 +1,5 @@
-# study
+# Cisco Modelling Lab
 ***
-***
-### Repository created to take a note of settings used in system and Nework Administration practices
 ***
 ### Cisco CML Setup After Installation
 
